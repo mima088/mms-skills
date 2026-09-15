@@ -65,7 +65,7 @@
 
 **Codex**
 ```
-skill-installer --repo <your-github>/<repo> --path skills/mms-yuanchuang-writer
+skill-installer --repo mima088/mms-skills --path skills/mms-yuanchuang-writer
 ```
 
 **WorkBuddy / TraeWork CN / Claude Code**
